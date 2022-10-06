@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\Linq_Lab\bin\Debug\net6.0\Linq_Lab.exe
+C:\Users\bleat\source\repos\Linq_Lab\bin\Debug\net6.0\Linq_Lab.deps.json
+C:\Users\bleat\source\repos\Linq_Lab\bin\Debug\net6.0\Linq_Lab.runtimeconfig.json
+C:\Users\bleat\source\repos\Linq_Lab\bin\Debug\net6.0\Linq_Lab.dll
+C:\Users\bleat\source\repos\Linq_Lab\bin\Debug\net6.0\Linq_Lab.pdb
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.AssemblyInfo.cs
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.dll
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\refint\Linq_Lab.dll
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.pdb
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\Linq_Lab.genruntimeconfig.cache
+C:\Users\bleat\source\repos\Linq_Lab\obj\Debug\net6.0\ref\Linq_Lab.dll
